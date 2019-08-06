@@ -45,7 +45,7 @@ $ git clone https://github.com/Bonidia/FourierFeatureExtraction.git FeatureExtra
 
 
 ```sh
-Access folder: $ cd script_lncRNAs
+Access folder: $ cd FeatureExtractionFourier
  
 To run the tool (Example): $ python3.5 -i input -o output -l mRNA -r 2
 
