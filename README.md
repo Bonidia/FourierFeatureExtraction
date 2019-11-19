@@ -1,6 +1,6 @@
 # Feature Extraction: A Fourier and Numerical Mapping Approach ---- Tool to extract features using 5 numeric mappings
 
-Due to the high number of genomic sequencing projects, the number of RNA transcripts increased significantly, creating a huge volume of data. Thus, new computational methods are needed for the analysis and information extraction from these data. In particular, when parts of a genome are transcribed into RNA molecules, some specific classes of RNA are produced, such as mRNA and ncRNA with different functions. In this way, long non-coding RNAs have emerged as key regulators of many biological processes. Therefore, machine learning approaches are being used to identify this enigmatic RNA class. Considering this, we present a Fourier transform-based features extraction approach with 5 numerical mapping techniques (Voss, Integer, Real, EIIP and Z-curve), to classify lncRNAs from plants. We investigate four classification algorithms like Naive Bayes, Random Forest, Support Vector Machine and AdaBoost. Moreover, the proposed approach was compared with 4 competing methods available in the literature (CPC2, CNCI, PLEK, and RNAplonc). The experimental results demonstrated high efficiency for the classification of lncRNAs, providing competitive performance.
+Due to the high number of genomic sequencing projects, the number of RNA transcripts increased significantly, creating a huge volume of data. Thus, new computational methods are needed for the analysis and information extraction from these data. In particular, when parts of a genome are transcribed into RNA molecules, some specific classes of RNA are produced, such as mRNA and ncRNA with different functions. In this way, long non-coding RNAs have emerged as key regulators of many biological processes. Therefore, machine learning approaches are being used to identify this enigmatic RNA class. Considering this, we present a Fourier transform-based features extraction approach with 5 numerical mapping techniques (Voss, Integer, Real, EIIP and Z-curve), in order to classify lncRNAs from plants. We investigate four classification algorithms like Naive Bayes, Random Forest, Support Vector Machine and AdaBoost. Moreover, the proposed approach was compared with 4 competing methods available in the literature (CPC2, CNCI, PLEK, and RNAplonc). The experimental results demonstrated high efficiency for the classification of lncRNAs, providing competitive performance.
 
 
 ## Authors
@@ -12,7 +12,7 @@ Due to the high number of genomic sequencing projects, the number of RNA transcr
 
 ## Publication
 
-Submitted
+Bonidia R.P., Sampaio L.D.H., Lopes F.M., Sanches D.S. (2019) Feature Extraction of Long Non-coding RNAs: A Fourier and Numerical Mapping Approach. In: Nyström I., Hernández Heredia Y., Milián Núñez V. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2019. Lecture Notes in Computer Science, vol 11896. Springer, Cham.
 
 
 ## List of files
@@ -64,3 +64,5 @@ Where:
 ## About
 
 If you use this code in a scientific publication, we would appreciate citations to the following paper:
+
+Bonidia R.P., Sampaio L.D.H., Lopes F.M., Sanches D.S. (2019) Feature Extraction of Long Non-coding RNAs: A Fourier and Numerical Mapping Approach. In: Nyström I., Hernández Heredia Y., Milián Núñez V. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2019. Lecture Notes in Computer Science, vol 11896. Springer, Cham.
